@@ -10,7 +10,7 @@ pulse_counter.vhd
 | i_reset | input | Asynchronious reset active high | 
 | i_en | input | enable |
 | i_data | input | sensor data in |
-| o_pulse | output | 12 bit speed |
+| o_pulse | output | 12 bit rev/s |
 
 
 Contains:
